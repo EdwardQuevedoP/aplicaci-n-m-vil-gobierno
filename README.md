@@ -7,12 +7,12 @@
 ## Detalles de la Actividad
 
 - 🎯 **Nombre de la Actividad:** Nombre o título de la actividad
-- 🏠 **Lugar:** Lugar de realización
-- 📅 **Fecha:** Fecha de realización
+- 🏠 **Lugar:** Lugar de realización de la actividad
+- 📅 **Fecha:** Fecha de realización de la actividad
 
 ## Detalles de la Persona
 
-- 👤 **Nombres Completos:** Nombre completo
+- 👤 **Nombres Completos:** Nombres completo
 - 🆔 **Tipo de Documento:** Tipo de documento
 - #️⃣ **Número de Documento:** Número de documento
 - 🏠 **Dirección:** Dirección completa
